@@ -3,6 +3,7 @@ Mortgage Calculator (Java)
 A simple, console-based Mortgage Calculator written in Java.
 This application calculates monthly mortgage payments and prints a full payment schedule based on user input.
 
+
 📌 Features
 
 Calculates monthly mortgage payments
@@ -15,6 +16,7 @@ Uses standard financial formulas for accuracy
 
 Clean, modular, and easy-to-read Java code
 
+
 🛠 Technologies Used
 
 Java
@@ -24,6 +26,7 @@ java.util.Scanner for user input
 java.text.NumberFormat for currency formatting
 
 Core math utilities (Math.pow)
+
 
 🚀 How It Works
 
